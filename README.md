@@ -32,12 +32,11 @@ composer install
 
 #### 运行数据库迁移
 ```
-php artisan migrate
+php artisan migrate 无法执行执行下面这个
+php artisan db:seed 
 ``` 
 #### 菜单生成数据填充
 ```
-php artisan db:seed 无法执行执行下面这个
-
 php artisan migrate
 ``` 
 #### 公共磁盘创建
