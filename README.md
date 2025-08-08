@@ -36,7 +36,9 @@ php artisan migrate
 ``` 
 #### 菜单生成数据填充
 ```
-php artisan db:seed
+php artisan db:seed 无法执行执行下面这个
+
+php artisan migrate
 ``` 
 #### 公共磁盘创建
 ```
